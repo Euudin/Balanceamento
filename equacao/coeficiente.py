@@ -44,7 +44,7 @@ def elementos(eq):
 	
 	
 def coeficienteAtomo(atomo,comp):
-	'''-> Extrai a idade de átomos em um determinado componente
+	'''-> Extrai a quantidade de átomos em um determinado componente
 
 	:param atomo: Recebe um átomo de entrada
 	:param comp: Recebe a componente
